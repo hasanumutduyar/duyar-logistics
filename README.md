@@ -35,11 +35,9 @@ Here are some screenshots of the project:
 
 ## Installation
 
-- Clone the repository:
+- Clone the repository: git clone https://github.com/hasanumutduyar/duyar-logistics.git
 
-- git clone https://github.com/hasanumutduyar/duyar-logistics.git
-
-- Open the project folder.
+- Open the project folder -> duyar-logistics.zip
 
 - Launch index.html in your preferred browser.
 
